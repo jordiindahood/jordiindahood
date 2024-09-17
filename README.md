@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://dev.to/jordy4life" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jordy4life" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hazem-ouni-823b351b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazem-ouni-823b351b3" height="30" width="40" /></a>
-<a href="https://fb.com/hazem.auni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hazem.auni" height="30" width="40" /></a>
 <a href="https://instagram.com/hazem.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hazem.exe" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jordiindahood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jordiindahood" height="30" width="40" /></a>
 </p>
