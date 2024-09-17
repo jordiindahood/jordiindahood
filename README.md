@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [LFS: Linux From Scratch Installer program](https://github.com/MohamedNourDerbeli/Linux-From-Scratch)
 
-- 🌱 I’m currently learning **machine learning & cubersecurity in Holberton School**
+- 🌱 I’m currently learning **machine learning & cubersecurity at** [Holberton School](https://holberton.tn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
